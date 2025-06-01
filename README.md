@@ -28,7 +28,7 @@ If this is a code-based layout:
 git clone https://github.com/natalia-maryshko/layout-museum.git
 
 2. Navigate into the project
-cd TheMet
+cd layout-museum
 
 3. Open in browser
 npm install
